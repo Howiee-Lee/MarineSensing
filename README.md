@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarineSensing
 Marine Sensing point trace data fusion involves processing the sensing data in the unit of geographical points from multiple ship platforms. This data includes the navigation information recorded by the ship's own sensors and navigation equipment, the point traces measured by the navigation radar installed on the ship, and the Automatic Identification System (AIS) data actively transmitted by other vessels and received by the AIS equipment equipped on the ship. The system identifies and matches the multi-source detection data of the same target but from different sources, so as to achieve the correction of the radar system error and the discovery of abnormal targets.<br>
 The simulation data graph without clutter is as follows. The red points represent the sensing ship nodes, the blue points represent the point traces of other ships received by the sensing ships, the green points represent the target point traces detected by the radars installed on the sensing ships, and the black point traces represent the actual point traces of the ships. There are 10 sensing ships and 100 ships to be sensed, and the time range of the data is 20 minutes.<br>
@@ -9,3 +10,7 @@ The processing effect of the Marine Sensing Point Trace Data Fusion System is to
 As shown in the following figure for a certain sensing ship, the system calculates the systematic errors of this sensing ship. The first item is the radial error, the second item is the azimuth error, and the third item is the effective detection range. <br>
 ![SendShipNO-0-ISDBT_visualization](https://github.com/user-attachments/assets/27d8f57b-cfdd-46d3-a0bd-c743b2f73187)
 # Using
+=======
+# local_test
+ 本地仓库测试例程
+>>>>>>> 773ea91 (commit)
