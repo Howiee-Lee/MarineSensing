@@ -5,3 +5,5 @@ It should be noted that the generation of radar data has systematic errors, whic
 ![SimulationDataFigue](https://github.com/user-attachments/assets/b719cd59-7efc-42c0-a7c7-d3f2ed8e85f2)
 The simulation data graph with radar clutter points is as follows. The clutter points are generated in such a way that there are randomly between 5 and 15 points appearing in each frame of the radar.  <br>
 ![SimulationNoisyDataFigue](https://github.com/user-attachments/assets/5198b7ab-bed6-4a29-abef-55b904f46614)
+The processing effect of the Marine Sensing Point Trace Data Fusion System is to jointly process the Automatic Identification System (AIS) data of all ships to obtain unified AIS detection results. The point traces detected by the radar go through complex preprocessing and filtering to obtain the trajectories of the detected targets. Then, the detected targets are matched with the AIS detection results to achieve the consistency between the radar-detected targets and the AIS-detected targets. This system can be applied to scenarios such as marine safety for wide-area perception and ship monitoring. <br>
+# Using
