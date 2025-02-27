@@ -9,3 +9,4 @@ The processing effect of the Marine Sensing Point Trace Data Fusion System is to
 As shown in the following figure for a certain sensing ship, the system calculates the systematic errors of this sensing ship. The first item is the radial error, the second item is the azimuth error, and the third item is the effective detection range. <br>
 ![SendShipNO-0-ISDBT_visualization](https://github.com/user-attachments/assets/27d8f57b-cfdd-46d3-a0bd-c743b2f73187)
 # Using
+Enter the "build" folder and directly execute "main.exe". 
